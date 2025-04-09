@@ -9,3 +9,5 @@ It is the very first javascript project and the focus has been to understand the
 ## View it live
 
 View the site at:https://spellfinder.netlify.app/
+
+![screencapture-spellfinder-netlify-app-2025-04-09-12_22_32](https://github.com/user-attachments/assets/3c740b6b-473b-4281-a7e9-88b2faaff7a1)
